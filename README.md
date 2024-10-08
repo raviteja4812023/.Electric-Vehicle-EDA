@@ -20,5 +20,4 @@ Click here for the Racing Bar Plot Tutorial.
 Note: Following is an example of a Racing Bar Plot animation. It might take a couple of minutes to render.
 
 
-Task 4: Write a Linkedin Post which reflects your work and experience for this project. Don’t forget to tag Innomatics Research Labs in your posts.
 
